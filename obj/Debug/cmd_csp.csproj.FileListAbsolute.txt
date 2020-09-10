@@ -1,0 +1,7 @@
+C:\Users\Владимир\source\repos\cmd_csp\bin\Debug\cmd_csp.exe.config
+C:\Users\Владимир\source\repos\cmd_csp\bin\Debug\cmd_csp.exe
+C:\Users\Владимир\source\repos\cmd_csp\bin\Debug\cmd_csp.pdb
+C:\Users\Владимир\source\repos\cmd_csp\obj\Debug\cmd_csp.csprojAssemblyReference.cache
+C:\Users\Владимир\source\repos\cmd_csp\obj\Debug\cmd_csp.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\cmd_csp\obj\Debug\cmd_csp.exe
+C:\Users\Владимир\source\repos\cmd_csp\obj\Debug\cmd_csp.pdb

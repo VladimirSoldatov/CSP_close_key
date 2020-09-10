@@ -21,7 +21,7 @@ namespace cmd_csp
                 byte[] input = Encoding.Default.GetBytes(text);
                 // запись массива байтов в файл
                 fstream.Write(input, 0, input.Length);
-                Console.WriteLine("Текст записан в файл");
+
             }
                 Process process = new Process();
             process.StartInfo.FileName = "cmd.exe";
@@ -36,8 +36,8 @@ namespace cmd_csp
 
             process.WaitForExit();
             process.Close();
+            System.IO.File.Delete(@"temp.cmd");
 
-            Console.ReadKey();
         }
     }
 }
